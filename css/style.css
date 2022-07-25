@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(94, 75, 75);
+}
+header {
+    display: flex;
+    width: 100%;
+    background-color: brown;
+    justify-content: space-around;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+li > a{
+    text-decoration: none;
+
+}
+li{
+     padding: 30px;
+}
